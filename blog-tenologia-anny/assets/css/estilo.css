@@ -1,0 +1,11 @@
+/* formatações gerais */
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #edede9;
+      /* Coolors - site para ver cores e paletas que se encaixam */
+}
